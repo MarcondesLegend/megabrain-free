@@ -3,7 +3,7 @@
 Agent Namespace Validator — PreToolUse Hook v1.0
 
 Valida que agentes namespaced em .claude/agents/ sigam o formato canônico
-{squad}--{agent}.md (padrão megabrain-hub adotado pelo mega-brain).
+{squad}--{agent}.md (padrão the-hub adotado pelo mega-brain).
 
 REGRAS ENFORCED:
 - Nome do arquivo DEVE ser {squad}--{agent}.md (regex: ^[a-z0-9-]+--[a-z0-9-]+\\.md$)

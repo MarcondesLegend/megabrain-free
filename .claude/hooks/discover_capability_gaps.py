@@ -140,7 +140,7 @@ def main():
             "local-rag",
             "llm-router",
             "sync-engine",
-            "megabrain-hub",
+            "the-hub",
             "symphony",
             "bridge",
             "etl",

@@ -2,7 +2,7 @@
 name: roundtable
 description: "Orchestrates multi-agent consensus reviews using Agent Teams (TeamCreate + SendMessage). Teammates run with colored names, communicate bidirectionally, and persist across debate rounds. Supports 6 modes."
 version: "2.1.0"
-owner_squad: megabrain-squad
+owner_squad: mega-brain
 megabrain_tier: Tier3
 context: conversation
 agent: general-purpose

@@ -308,7 +308,7 @@ Tokens operacionais afetam todos os squads — human gate obrigatório.
 
 ### Regras
 
-1. Skill no Hub (`megabrain-hub/.claude/skills/`) é SOT para estrutura base
+1. Skill no Hub (`the-hub/.claude/skills/`) é SOT para estrutura base
 2. Spoke (your-org) pode adicionar scopes (project/global) como extensão
 3. Minor+ bump no Spoke DEVE gerar PR para Hub dentro de 7 dias
 4. Checklist version DEVE acompanhar skill version (ambos v3.x.x)

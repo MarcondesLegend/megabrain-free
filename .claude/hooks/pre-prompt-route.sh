@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # pre-prompt-route.sh — opt-in default routing to plan-architect
 #
-# Ported from megabrain-hub (STORY-PA-5.2).
+# Ported from the-hub (STORY-PA-5.2).
 # MODE: WARN — opt-in via MEGABRAIN_AUTO_ROUTE; even when active, only injects context.
 # Trigger: UserPromptSubmit
 # Behavior:

@@ -272,7 +272,7 @@ skills:
   - name: "compare"
     version: "2.0.0"
     description: "Architectural modernization pipeline — compares two repos across 12 dimensions, emits verdicts (KEEP/MIGRATE/REPLACE/TRANSCEND), redesigns taxonomy, executes surgical merge."
-    owner_squad: "megabrain-squad"
+    owner_squad: "mega-brain"
     megabrain_tier: "Tier2"
     context: "conversation"
     user_invocable: true
@@ -696,7 +696,7 @@ skills:
   - name: "governance-pipeline"
     version: "1.0.0"
     description: "Orchestrates the full governance chain from investigation/roundtable output to wave-execute-ready Epic with validated stories. Chains 5 Mega Brain agents (@architect, @pm, @sm, @po, roundtable) through 8..."
-    owner_squad: "megabrain-squad"
+    owner_squad: "mega-brain"
     megabrain_tier: "Enterprise"
     context: "conversation"
     user_invocable: true
@@ -714,7 +714,7 @@ skills:
   - name: "handoff"
     version: "3.1.0"
     description: "Generates MEGABRAIN-compliant handoff document for work continuity without prior context"
-    owner_squad: "megabrain-squad"
+    owner_squad: "mega-brain"
     megabrain_tier: "Tier3"
     context: "fork"
     user_invocable: true
@@ -1074,7 +1074,7 @@ skills:
   - name: "roundtable"
     version: "2.1.0"
     description: "Orchestrates multi-agent consensus reviews using Agent Teams (TeamCreate + SendMessage). Teammates run with colored names, communicate bidirectionally, and persist across debate rounds. Supports 6 ..."
-    owner_squad: "megabrain-squad"
+    owner_squad: "mega-brain"
     megabrain_tier: "Tier3"
     context: "conversation"
     user_invocable: true
@@ -1407,7 +1407,7 @@ skills:
   - name: "validate-skill"
     version: "2.0.0"
     description: "Validates skills against MEGABRAIN compliance rules — 10 dimensions, 16 checks, weighted scoring with PASS/WARN/FAIL verdict"
-    owner_squad: "megabrain-squad"
+    owner_squad: "mega-brain"
     megabrain_tier: "Tier2"
     context: "fork"
     user_invocable: true
@@ -1479,7 +1479,7 @@ skills:
   - name: "video-to-action"
     version: "1.0.0"
     description: "Video-to-Action Pipeline — Transforma qualquer vídeo em ação validada."
-    owner_squad: "megabrain-squad"
+    owner_squad: "mega-brain"
     megabrain_tier: "Tier2"
     context: "conversation"
     user_invocable: true
@@ -1488,7 +1488,7 @@ skills:
   - name: "wave-execute"
     version: "3.2.0"
     description: "Wave execution pipeline. Invoke via /wave-execute {epic} {wave}. Builds DAG, spawns parallel story-executor agents per batch via Agent tool, collects results, advances batches. Proven in Epic 69 Wa..."
-    owner_squad: "megabrain-squad"
+    owner_squad: "mega-brain"
     megabrain_tier: "Tier3"
     context: "conversation"
     user_invocable: true

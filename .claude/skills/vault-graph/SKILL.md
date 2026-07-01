@@ -2,7 +2,7 @@
 name: vault-graph
 description: "9-operation interactive graph analysis for the knowledge vault. Routes natural language to bash operations: health, triangles, bridges, clusters, hubs, siblings, forward, backward, query."
 version: "1.0.0"
-owner_squad: megabrain-squad
+owner_squad: mega-brain
 megabrain_tier: Tier2
 context: inline
 agent: general-purpose

@@ -175,7 +175,7 @@ Golden Rule: L0 > L1 > L2 > L3 > L4 (higher layers override lower).
 
 Token → Atom → Molecule → Organism → Template → Instance
 
-Canonical refs: `squads/megabrain-squad/data/composition-rules.yaml` | `token-registry.yaml`
+Canonical refs: `squads/mega-brain/data/composition-rules.yaml` | `token-registry.yaml`
 
 > **Nota de aplicabilidade:** MEGABRAIN Composition aplica-se EXCLUSIVAMENTE a squads em `squads/`. Agentes de conhecimento (`agents/external/`, `agents/cargo/`, `agents/business/`, `agents/personal/`) seguem o **Kernel Session Layer (KSL)** — ver `docs/architecture/knowledge-agent-architecture.md` para spec completa.
 

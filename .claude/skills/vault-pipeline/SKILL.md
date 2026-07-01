@@ -2,7 +2,7 @@
 name: vault-pipeline
 description: "5-phase knowledge vault processing pipeline: seed → extract → reflect → reweave → verify. Uses Ralph Orchestrator for resumable queue-based execution."
 version: "1.0.0"
-owner_squad: megabrain-squad
+owner_squad: mega-brain
 megabrain_tier: Tier2
 context: inline
 agent: general-purpose

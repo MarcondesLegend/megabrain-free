@@ -261,7 +261,7 @@ class WorkspaceValidator:
             # Find project root (parent of workspace/)
             project_root = Path(self.workspace_root).parent
             squads_dir = project_root / "squads"
-            registry_path = squads_dir / "megabrain-squad" / "data" / "ecosystem-registry.yaml"
+            registry_path = squads_dir / "mega-brain" / "data" / "ecosystem-registry.yaml"
 
             if not squads_dir.exists() or not registry_path.exists():
                 return

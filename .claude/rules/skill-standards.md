@@ -100,13 +100,13 @@ argument-hint: "[args description]"      # hint for CLI usage
 
 | Skill | Owner Squad | Tier |
 |-------|-------------|------|
-| handoff | megabrain-squad | Tier 3 |
-| roundtable | megabrain-squad | Tier 3 |
-| wave-execute | megabrain-squad | Tier 3 |
+| handoff | mega-brain | Tier 3 |
+| roundtable | mega-brain | Tier 3 |
+| wave-execute | mega-brain | Tier 3 |
 | tech-search | infra-ops-squad | Tier 1 |
 | coderabbit-review | infra-ops-squad | Tier 1 |
-| synapse | megabrain-squad | Tier 1 |
-| skill-creator | megabrain-squad | Tier 1 |
+| synapse | mega-brain | Tier 1 |
+| skill-creator | mega-brain | Tier 1 |
 | service-file-parser | infra-ops-squad | Tier 1 |
 | service-google-drive | infra-ops-squad | Tier 1 |
 | design-system-ops | design-squad | Tier 1 |
